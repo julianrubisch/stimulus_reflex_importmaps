@@ -14,6 +14,6 @@ eagerLoadControllersFrom("controllers", application)
 // import { lazyLoadControllersFrom } from "@hotwired/stimulus-loading"
 // lazyLoadControllersFrom("controllers", application)
 
-// initialize StimulusReflex
-const consumer = cable.getConsumer()
-StimulusReflex.initialize(application, { consumer });
+// initialize StimulusReflex w/top-level await
+const consumer = await cable.getConsumer()
+StimulusReflex.initialize(application, { consumer, debug: true });
