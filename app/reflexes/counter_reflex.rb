@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class CounterReflex < ApplicationReflex
-  def increment
-    @count = element.dataset[:count].to_i + element.dataset[:step].to_i
+  def increment(step = 1)
+    session[:count] = session[:count].to_i + step
   end
 end
