@@ -1,0 +1,307 @@
+[09:38:51.145] Global cache location '/Users/jrubisch/Library/Caches/typescript/4.5', safe file path '/users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json
+[09:38:51.146] Processing cache location '/Users/jrubisch/Library/Caches/typescript/4.5'
+[09:38:51.146] Trying to find '/Users/jrubisch/Library/Caches/typescript/4.5/package.json'...
+[09:38:51.149] Loaded content of '/Users/jrubisch/Library/Caches/typescript/4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.574"},"devDependencies":{"@types/argparse":"^2.0.10","@types/arr-diff":"^4.0.0","@types/arr-union":"^3.1.0","@types/array-unique":"^0.3.0","@types/assert":"^1.5.6","@types/atob":"^2.1.2","@types/babel__core":"^7.1.17","@types/babel__plugin-transform-runtime":"^7.9.2","@types/babel__preset-env":"^7.9.2","@types/balanced-match":"^1.0.2","@types/base64-js":"^1.3.0","@types/big.js":"^6.1.2","@types/bluebird":"^3.5.36","@types/bn.js":"^5.1.0","@types/brace-expansion":"^1.1.0","@types/braces":"^3.0.1","@types/brorand":"^1.0.30","@types/buffer-from":"^1.1.0","@types/buffer-xor":"^2.0.0","@types/cacache":"^15.0.1","@types/caniuse-lite":"^1.0.1","@types/chardet":"^0.8.1","@types/chownr":"^1.0.0","@types/cipher-base":"^1.0.1","@types/color-convert":"^2.0.0","@types/color-name":"^1.1.1","@types/commondir":"^1.0.0","@types/component-emitter":"^1.2.11","@types/concat-map":"^0.0.1","@types/concat-stream":"^1.6.1","@types/convert-source-map":"^1.5.2","@types/create-hash":"^1.2.2","@types/create-hmac":"^1.1.0","@types/cross-spawn":"^6.0.2","@types/css-tree":"^1.0.7","@types/d3":"^7.1.0","@types/d3-array":"^3.0.2","@types/d3-axis":"^3.0.1","@types/d3-brush":"^3.0.1","@types/d3-chord":"^3.0.1","@types/d3-collection":"^1.0.10","@types/d3-color":"^3.0.2","@types/d3-contour":"^3.0.1","@types/d3-dispatch":"^3.0.1","@types/d3-drag":"^3.0.1","@types/d3-dsv":"^3.0.0","@types/d3-ease":"^3.0.0","@types/d3-fetch":"^3.0.1","@types/d3-force":"^3.0.3","@types/d3-format":"^3.0.1","@types/d3-geo":"^3.0.2","@types/d3-hierarchy":"^3.0.2","@types/d3-interpolate":"^3.0.1","@types/d3-path":"^3.0.0","@types/d3-polygon":"^3.0.0","@types/d3-quadtree":"^3.0.2","@types/d3-random":"^3.0.1","@types/d3-scale":"^4.0.2","@types/d3-scale-chromatic":"^3.0.0","@types/d3-selection":"^3.0.2","@types/d3-shape":"^3.0.2","@types/d3-time":"^3.0.0","@types/d3-time-format":"^4.0.0","@types/d3-timer":"^3.0.0","@types/d3-transition":"^3.0.1","@types/d3-voronoi":"^1.1.9","@types/d3-zoom":"^3.0.1","@types/date-now":"^1.0.1","@types/debug":"^4.1.7","@types/decode-uri-component":"^0.2.0","@types/define-properties":"^1.1.3","@types/diffie-hellman":"^5.0.0","@types/doctrine":"^0.0.5","@types/duplexify":"^3.6.1","@types/elliptic":"^6.4.14","@types/end-of-stream":"^1.4.1","@types/enhanced-resolve":"^3.0.7","@types/es-abstract":"^1.17.3","@types/es-to-primitive":"^1.2.4","@types/eslint":"^8.2.1","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/eslint-scope":"^3.7.2","@types/eslint-utils":"^3.0.1","@types/eslint-visitor-keys":"^1.0.0","@types/esprima":"^4.0.3","@types/esquery":"^1.0.2","@types/estraverse":"^5.1.1","@types/esutils":"^2.0.0","@types/events":"^3.0.0","@types/expand-tilde":"^2.0.0","@types/fast-levenshtein":"^0.0.2","@types/file-entry-cache":"^5.0.2","@types/fill-range":"^7.0.0","@types/find-cache-dir":"^3.2.1","@types/findup-sync":"^4.0.2","@types/flat-cache":"^2.0.0","@types/flush-write-stream":"^1.0.0","@types/from2":"^2.3.1","@types/function-bind":"^1.1.6","@types/functional-red-black-tree":"^1.0.1","@types/get-value":"^3.0.2","@types/glob":"^7.2.0","@types/glob-parent":"^5.1.1","@types/global-modules":"^2.0.0","@types/global-prefix":"^3.0.0","@types/graceful-fs":"^4.1.5","@types/has":"^1.0.0","@types/has-symbols":"^1.0.0","@types/hoist-non-react-statics":"^3.3.1","@types/hyphenate-style-name":"^1.0.0","@types/iferr":"^1.0.2","@types/imurmurhash":"^0.1.1","@types/inherits":"^0.0.30","@types/ini":"^1.3.31","@types/inline-style-prefixer":"^5.0.0","@types/inquirer":"^8.1.3","@types/interpret":"^1.1.1","@types/invariant":"^2.2.35","@types/is-buffer":"^2.0.0","@types/is-callable":"^1.1.0","@types/is-data-descriptor":"^1.0.0","@types/is-date-object":"^1.0.2","@types/is-glob":"^4.0.2","@types/is-number":"^7.0.2","@types/is-regex":"^1.0.0","@types/is-windows":"^1.0.0","@types/isarray":"^2.0.0","@types/isexe":"^2.0.1","@types/js-levenshtein":"^1.1.1","@types/js-yaml":"^4.0.5","@types/jsesc":"^3.0.1","@types/json-parse-better-errors":"^1.0.0","@types/kind-of":"^6.0.0","@types/loader-runner":"^2.2.4","@types/loader-utils":"^2.0.3","@types/lru-cache":"^5.1.1","@types/memory-fs":"^0.3.3","@types/merge-stream":"^1.1.2","@types/micromatch":"^4.0.2","@types/minimalistic-assert":"^1.0.1","@types/minimatch":"^3.0.5","@types/minimist":"^1.2.2","@types/mkdirp":"^1.0.2","@types/move-concurrently":"^1.0.4","@types/ms":"^0.7.31","@types/mute-stream":"^0.0.1","@types/natural-compare":"^1.4.1","@types/nice-try":"^2.1.0","@types/normalize-path":"^3.0.0","@types/object-assign":"^4.0.30","@types/object-inspect":"^1.8.1","@types/object-keys":"^1.0.1","@types/object.fromentries":"^2.0.1","@types/object.pick":"^1.3.1","@types/once":"^1.4.0","@types/os-tmpdir":"^1.0.0","@types/pako":"^1.0.3","@types/parallel-transform":"^1.1.1","@types/parse-passwd":"^1.0.0","@types/pascalcase":"^1.0.1","@types/path-browserify":"^1.0.0","@types/path-is-absolute":"^1.0.0","@types/path-parse":"^1.0.19","@types/pbkdf2":"^3.1.0","@types/pify":"^5.0.1","@types/prelude-ls":"^1.1.29","@types/prettier":"^2.4.2","@types/prettier-linter-helpers":"^1.0.1","@types/progress":"^2.0.5","@types/promise-inflight":"^1.0.0","@types/prop-types":"^15.7.4","@types/pump":"^1.1.1","@types/pumpify":"^1.4.1","@types/punycode":"^2.1.0","@types/rails__actioncable":"^6.1.6","@types/rails__activestorage":"^7.0.0","@types/rails__ujs":"^6.0.1","@types/randombytes":"^2.0.0","@types/react":"^17.0.38","@types/react-dom":"^17.0.11","@types/react-is":"^17.0.3","@types/react-wait":"^0.3.2","@types/readable-stream":"^2.3.12","@types/regenerate":"^1.4.1","@types/regenerator-runtime":"^0.13.1","@types/regex-not":"^1.0.0","@types/repeat-element":"^1.1.1","@types/repeat-string":"^1.6.3","@types/require-directory":"^2.1.2","@types/resolve":"^1.20.1","@types/rimraf":"^3.0.2","@types/ripemd160":"^2.0.0","@types/safe-regex":"^1.1.3","@types/safer-buffer":"^2.1.0","@types/scheduler":"^0.16.2","@types/semver":"^7.3.9","@types/serialize-javascript":"^5.0.2","@types/set-value":"^4.0.1","@types/setimmediate":"^1.0.2","@types/sha.js":"^2.4.0","@types/shebang-command":"^1.2.0","@types/signal-exit":"^3.0.1","@types/slice-ansi":"^5.0.0","@types/source-list-map":"^0.1.2","@types/source-map-support":"^0.5.4","@types/sprintf":"^0.1.0","@types/sprintf-js":"^1.1.2","@types/ssri":"^7.1.1","@types/stream-each":"^1.2.0","@types/stream-shift":"^1.0.0","@types/supports-color":"^8.1.1","@types/tapable":"^2.2.2","@types/text-table":"^0.2.2","@types/throttle-debounce":"^2.1.0","@types/through":"^0.0.30","@types/through2":"^2.0.36","@types/tmp":"^0.2.3","@types/to-regex":"^3.0.0","@types/to-regex-range":"^5.0.0","@types/type-check":"^0.3.27","@types/urix":"^0.1.0","@types/util-deprecate":"^1.0.0","@types/watchpack":"^1.1.7","@types/webpack":"^5.28.0","@types/webpack-sources":"^3.2.0","@types/which":"^2.0.1","@types/wordwrap":"^1.0.1","@types/wrap-ansi":"^8.0.1","@types/write":"^2.0.1","@types/xtend":"^4.0.4","@types/yallist":"^4.0.1","@types/yargs":"^17.0.8","@types/yargs-parser":"^20.2.1"}}
+[09:38:51.149] Loaded content of '/Users/jrubisch/Library/Caches/typescript/4.5/package-lock.json'
+[09:38:51.155] Adding entry into typings cache: 'argparse' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/argparse/index.d.ts'
+[09:38:51.157] Adding entry into typings cache: 'arr-diff' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/arr-diff/index.d.ts'
+[09:38:51.159] Adding entry into typings cache: 'arr-union' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/arr-union/index.d.ts'
+[09:38:51.160] Adding entry into typings cache: 'array-unique' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/array-unique/index.d.ts'
+[09:38:51.161] Adding entry into typings cache: 'assert' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/assert/index.d.ts'
+[09:38:51.163] Adding entry into typings cache: 'atob' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/atob/index.d.ts'
+[09:38:51.164] Adding entry into typings cache: 'babel__core' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/babel__core/index.d.ts'
+[09:38:51.165] Adding entry into typings cache: 'babel__plugin-transform-runtime' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/babel__plugin-transform-runtime/index.d.ts'
+[09:38:51.166] Adding entry into typings cache: 'babel__preset-env' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/babel__preset-env/index.d.ts'
+[09:38:51.166] Adding entry into typings cache: 'balanced-match' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/balanced-match/index.d.ts'
+[09:38:51.167] Adding entry into typings cache: 'base64-js' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/base64-js/index.d.ts'
+[09:38:51.168] Adding entry into typings cache: 'big.js' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/big.js/index.d.ts'
+[09:38:51.170] Adding entry into typings cache: 'bluebird' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/bluebird/index.d.ts'
+[09:38:51.171] Adding entry into typings cache: 'bn.js' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/bn.js/index.d.ts'
+[09:38:51.171] Adding entry into typings cache: 'brace-expansion' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/brace-expansion/index.d.ts'
+[09:38:51.173] Adding entry into typings cache: 'braces' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/braces/index.d.ts'
+[09:38:51.173] Adding entry into typings cache: 'brorand' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/brorand/index.d.ts'
+[09:38:51.174] Adding entry into typings cache: 'buffer-from' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/buffer-from/index.d.ts'
+[09:38:51.175] Adding entry into typings cache: 'buffer-xor' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/buffer-xor/index.d.ts'
+[09:38:51.175] Adding entry into typings cache: 'cacache' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/cacache/index.d.ts'
+[09:38:51.176] Adding entry into typings cache: 'caniuse-lite' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/caniuse-lite/index.d.ts'
+[09:38:51.177] Adding entry into typings cache: 'chardet' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/chardet/index.d.ts'
+[09:38:51.177] Adding entry into typings cache: 'chownr' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/chownr/index.d.ts'
+[09:38:51.177] Adding entry into typings cache: 'cipher-base' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/cipher-base/index.d.ts'
+[09:38:51.178] Adding entry into typings cache: 'color-convert' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/color-convert/index.d.ts'
+[09:38:51.178] Adding entry into typings cache: 'color-name' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/color-name/index.d.ts'
+[09:38:51.179] Adding entry into typings cache: 'commondir' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/commondir/index.d.ts'
+[09:38:51.179] Adding entry into typings cache: 'component-emitter' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/component-emitter/index.d.ts'
+[09:38:51.180] Adding entry into typings cache: 'concat-map' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/concat-map/index.d.ts'
+[09:38:51.180] Adding entry into typings cache: 'concat-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/concat-stream/index.d.ts'
+[09:38:51.181] Adding entry into typings cache: 'convert-source-map' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/convert-source-map/index.d.ts'
+[09:38:51.181] Adding entry into typings cache: 'create-hash' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/create-hash/index.d.ts'
+[09:38:51.182] Adding entry into typings cache: 'create-hmac' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/create-hmac/index.d.ts'
+[09:38:51.182] Adding entry into typings cache: 'cross-spawn' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/cross-spawn/index.d.ts'
+[09:38:51.182] Adding entry into typings cache: 'css-tree' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/css-tree/index.d.ts'
+[09:38:51.183] Adding entry into typings cache: 'd3' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3/index.d.ts'
+[09:38:51.183] Adding entry into typings cache: 'd3-array' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-array/index.d.ts'
+[09:38:51.184] Adding entry into typings cache: 'd3-axis' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-axis/index.d.ts'
+[09:38:51.184] Adding entry into typings cache: 'd3-brush' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-brush/index.d.ts'
+[09:38:51.185] Adding entry into typings cache: 'd3-chord' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-chord/index.d.ts'
+[09:38:51.185] Adding entry into typings cache: 'd3-collection' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-collection/index.d.ts'
+[09:38:51.186] Adding entry into typings cache: 'd3-color' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-color/index.d.ts'
+[09:38:51.187] Adding entry into typings cache: 'd3-contour' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-contour/index.d.ts'
+[09:38:51.187] Adding entry into typings cache: 'd3-dispatch' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-dispatch/index.d.ts'
+[09:38:51.188] Adding entry into typings cache: 'd3-drag' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-drag/index.d.ts'
+[09:38:51.188] Adding entry into typings cache: 'd3-dsv' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-dsv/index.d.ts'
+[09:38:51.189] Adding entry into typings cache: 'd3-ease' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-ease/index.d.ts'
+[09:38:51.189] Adding entry into typings cache: 'd3-fetch' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-fetch/index.d.ts'
+[09:38:51.190] Adding entry into typings cache: 'd3-force' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-force/index.d.ts'
+[09:38:51.190] Adding entry into typings cache: 'd3-format' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-format/index.d.ts'
+[09:38:51.191] Adding entry into typings cache: 'd3-geo' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-geo/index.d.ts'
+[09:38:51.191] Adding entry into typings cache: 'd3-hierarchy' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-hierarchy/index.d.ts'
+[09:38:51.192] Adding entry into typings cache: 'd3-interpolate' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-interpolate/index.d.ts'
+[09:38:51.192] Adding entry into typings cache: 'd3-path' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-path/index.d.ts'
+[09:38:51.193] Adding entry into typings cache: 'd3-polygon' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-polygon/index.d.ts'
+[09:38:51.193] Adding entry into typings cache: 'd3-quadtree' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-quadtree/index.d.ts'
+[09:38:51.194] Adding entry into typings cache: 'd3-random' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-random/index.d.ts'
+[09:38:51.195] Adding entry into typings cache: 'd3-scale' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-scale/index.d.ts'
+[09:38:51.195] Adding entry into typings cache: 'd3-scale-chromatic' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-scale-chromatic/index.d.ts'
+[09:38:51.196] Adding entry into typings cache: 'd3-selection' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-selection/index.d.ts'
+[09:38:51.196] Adding entry into typings cache: 'd3-shape' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-shape/index.d.ts'
+[09:38:51.197] Adding entry into typings cache: 'd3-time' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-time/index.d.ts'
+[09:38:51.198] Adding entry into typings cache: 'd3-time-format' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-time-format/index.d.ts'
+[09:38:51.198] Adding entry into typings cache: 'd3-timer' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-timer/index.d.ts'
+[09:38:51.199] Adding entry into typings cache: 'd3-transition' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-transition/index.d.ts'
+[09:38:51.199] Adding entry into typings cache: 'd3-voronoi' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-voronoi/index.d.ts'
+[09:38:51.200] Adding entry into typings cache: 'd3-zoom' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/d3-zoom/index.d.ts'
+[09:38:51.201] Adding entry into typings cache: 'date-now' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/date-now/index.d.ts'
+[09:38:51.202] Adding entry into typings cache: 'debug' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/debug/index.d.ts'
+[09:38:51.203] Adding entry into typings cache: 'decode-uri-component' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/decode-uri-component/index.d.ts'
+[09:38:51.203] Adding entry into typings cache: 'define-properties' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/define-properties/index.d.ts'
+[09:38:51.203] Adding entry into typings cache: 'diffie-hellman' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/diffie-hellman/index.d.ts'
+[09:38:51.204] Adding entry into typings cache: 'doctrine' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/doctrine/index.d.ts'
+[09:38:51.204] Adding entry into typings cache: 'duplexify' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/duplexify/index.d.ts'
+[09:38:51.205] Adding entry into typings cache: 'elliptic' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/elliptic/index.d.ts'
+[09:38:51.205] Adding entry into typings cache: 'end-of-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/end-of-stream/index.d.ts'
+[09:38:51.206] Adding entry into typings cache: 'enhanced-resolve' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/enhanced-resolve/types.d.ts'
+[09:38:51.206] Adding entry into typings cache: 'es-abstract' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/es-abstract/index.d.ts'
+[09:38:51.207] Adding entry into typings cache: 'es-to-primitive' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/es-to-primitive/index.d.ts'
+[09:38:51.207] Adding entry into typings cache: 'eslint' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint/index.d.ts'
+[09:38:51.208] Adding entry into typings cache: 'eslint-config-prettier' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint-config-prettier/index.d.ts'
+[09:38:51.208] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[09:38:51.209] Adding entry into typings cache: 'eslint-scope' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint-scope/index.d.ts'
+[09:38:51.210] Adding entry into typings cache: 'eslint-utils' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint-utils/index.d.ts'
+[09:38:51.210] Adding entry into typings cache: 'eslint-visitor-keys' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/eslint-visitor-keys/index.d.ts'
+[09:38:51.210] Adding entry into typings cache: 'esprima' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/esprima/index.d.ts'
+[09:38:51.211] Adding entry into typings cache: 'esquery' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/esquery/index.d.ts'
+[09:38:51.212] Adding entry into typings cache: 'estraverse' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/estraverse/index.d.ts'
+[09:38:51.213] Adding entry into typings cache: 'esutils' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/esutils/index.d.ts'
+[09:38:51.213] Adding entry into typings cache: 'events' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/events/index.d.ts'
+[09:38:51.214] Adding entry into typings cache: 'expand-tilde' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/expand-tilde/index.d.ts'
+[09:38:51.214] Adding entry into typings cache: 'fast-levenshtein' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/fast-levenshtein/index.d.ts'
+[09:38:51.215] Adding entry into typings cache: 'file-entry-cache' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/file-entry-cache/index.d.ts'
+[09:38:51.215] Adding entry into typings cache: 'fill-range' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/fill-range/index.d.ts'
+[09:38:51.216] Adding entry into typings cache: 'find-cache-dir' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/find-cache-dir/index.d.ts'
+[09:38:51.217] Adding entry into typings cache: 'findup-sync' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/findup-sync/index.d.ts'
+[09:38:51.217] Adding entry into typings cache: 'flat-cache' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/flat-cache/index.d.ts'
+[09:38:51.217] Adding entry into typings cache: 'flush-write-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/flush-write-stream/index.d.ts'
+[09:38:51.218] Adding entry into typings cache: 'from2' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/from2/index.d.ts'
+[09:38:51.218] Adding entry into typings cache: 'function-bind' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/function-bind/index.d.ts'
+[09:38:51.218] Adding entry into typings cache: 'functional-red-black-tree' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/functional-red-black-tree/index.d.ts'
+[09:38:51.219] Adding entry into typings cache: 'get-value' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/get-value/index.d.ts'
+[09:38:51.219] Adding entry into typings cache: 'glob' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/glob/index.d.ts'
+[09:38:51.220] Adding entry into typings cache: 'glob-parent' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/glob-parent/index.d.ts'
+[09:38:51.220] Adding entry into typings cache: 'global-modules' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/global-modules/index.d.ts'
+[09:38:51.220] Adding entry into typings cache: 'global-prefix' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/global-prefix/index.d.ts'
+[09:38:51.221] Adding entry into typings cache: 'graceful-fs' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/graceful-fs/index.d.ts'
+[09:38:51.221] Adding entry into typings cache: 'has' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/has/index.d.ts'
+[09:38:51.222] Adding entry into typings cache: 'has-symbols' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/has-symbols/index.d.ts'
+[09:38:51.223] Adding entry into typings cache: 'hoist-non-react-statics' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/hoist-non-react-statics/index.d.ts'
+[09:38:51.224] Adding entry into typings cache: 'hyphenate-style-name' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/hyphenate-style-name/index.d.ts'
+[09:38:51.224] Adding entry into typings cache: 'iferr' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/iferr/index.d.ts'
+[09:38:51.225] Adding entry into typings cache: 'imurmurhash' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/imurmurhash/index.d.ts'
+[09:38:51.225] Adding entry into typings cache: 'inherits' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/inherits/index.d.ts'
+[09:38:51.226] Adding entry into typings cache: 'ini' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/ini/index.d.ts'
+[09:38:51.226] Adding entry into typings cache: 'inline-style-prefixer' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/inline-style-prefixer/index.d.ts'
+[09:38:51.227] Adding entry into typings cache: 'inquirer' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/inquirer/index.d.ts'
+[09:38:51.228] Adding entry into typings cache: 'interpret' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/interpret/index.d.ts'
+[09:38:51.228] Adding entry into typings cache: 'invariant' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/invariant/index.d.ts'
+[09:38:51.229] Adding entry into typings cache: 'is-buffer' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-buffer/index.d.ts'
+[09:38:51.229] Adding entry into typings cache: 'is-callable' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-callable/index.d.ts'
+[09:38:51.230] Adding entry into typings cache: 'is-data-descriptor' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-data-descriptor/index.d.ts'
+[09:38:51.230] Adding entry into typings cache: 'is-date-object' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-date-object/index.d.ts'
+[09:38:51.231] Adding entry into typings cache: 'is-glob' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-glob/index.d.ts'
+[09:38:51.232] Adding entry into typings cache: 'is-number' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-number/index.d.ts'
+[09:38:51.232] Adding entry into typings cache: 'is-regex' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-regex/index.d.ts'
+[09:38:51.233] Adding entry into typings cache: 'is-windows' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/is-windows/index.d.ts'
+[09:38:51.234] Adding entry into typings cache: 'isarray' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/isarray/index.d.ts'
+[09:38:51.234] Adding entry into typings cache: 'isexe' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/isexe/index.d.ts'
+[09:38:51.235] Adding entry into typings cache: 'js-levenshtein' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/js-levenshtein/index.d.ts'
+[09:38:51.235] Adding entry into typings cache: 'js-yaml' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/js-yaml/index.d.ts'
+[09:38:51.235] Adding entry into typings cache: 'jsesc' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/jsesc/index.d.ts'
+[09:38:51.236] Adding entry into typings cache: 'json-parse-better-errors' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/json-parse-better-errors/index.d.ts'
+[09:38:51.237] Adding entry into typings cache: 'kind-of' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/kind-of/index.d.ts'
+[09:38:51.237] Adding entry into typings cache: 'loader-runner' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/loader-runner/index.d.ts'
+[09:38:51.238] Adding entry into typings cache: 'loader-utils' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/loader-utils/index.d.ts'
+[09:38:51.238] Adding entry into typings cache: 'lru-cache' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/lru-cache/index.d.ts'
+[09:38:51.238] Adding entry into typings cache: 'memory-fs' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/memory-fs/index.d.ts'
+[09:38:51.239] Adding entry into typings cache: 'merge-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/merge-stream/index.d.ts'
+[09:38:51.239] Adding entry into typings cache: 'micromatch' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/micromatch/index.d.ts'
+[09:38:51.240] Adding entry into typings cache: 'minimalistic-assert' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/minimalistic-assert/index.d.ts'
+[09:38:51.240] Adding entry into typings cache: 'minimatch' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/minimatch/index.d.ts'
+[09:38:51.240] Adding entry into typings cache: 'minimist' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/minimist/index.d.ts'
+[09:38:51.241] Adding entry into typings cache: 'mkdirp' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/mkdirp/index.d.ts'
+[09:38:51.241] Adding entry into typings cache: 'move-concurrently' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/move-concurrently/index.d.ts'
+[09:38:51.241] Adding entry into typings cache: 'ms' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/ms/index.d.ts'
+[09:38:51.242] Adding entry into typings cache: 'mute-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/mute-stream/index.d.ts'
+[09:38:51.242] Adding entry into typings cache: 'natural-compare' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/natural-compare/index.d.ts'
+[09:38:51.242] Adding entry into typings cache: 'nice-try' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/nice-try/index.d.ts'
+[09:38:51.243] Adding entry into typings cache: 'normalize-path' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/normalize-path/index.d.ts'
+[09:38:51.243] Adding entry into typings cache: 'object-assign' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/object-assign/index.d.ts'
+[09:38:51.243] Adding entry into typings cache: 'object-inspect' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/object-inspect/index.d.ts'
+[09:38:51.244] Adding entry into typings cache: 'object-keys' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/object-keys/index.d.ts'
+[09:38:51.244] Adding entry into typings cache: 'object.fromentries' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/object.fromentries/index.d.ts'
+[09:38:51.244] Adding entry into typings cache: 'object.pick' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/object.pick/index.d.ts'
+[09:38:51.245] Adding entry into typings cache: 'once' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/once/index.d.ts'
+[09:38:51.245] Adding entry into typings cache: 'os-tmpdir' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/os-tmpdir/index.d.ts'
+[09:38:51.245] Adding entry into typings cache: 'pako' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pako/index.d.ts'
+[09:38:51.245] Adding entry into typings cache: 'parallel-transform' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/parallel-transform/index.d.ts'
+[09:38:51.246] Adding entry into typings cache: 'parse-passwd' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/parse-passwd/index.d.ts'
+[09:38:51.246] Adding entry into typings cache: 'pascalcase' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pascalcase/index.d.ts'
+[09:38:51.247] Adding entry into typings cache: 'path-browserify' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/path-browserify/index.d.ts'
+[09:38:51.247] Adding entry into typings cache: 'path-is-absolute' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/path-is-absolute/index.d.ts'
+[09:38:51.247] Adding entry into typings cache: 'path-parse' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/path-parse/index.d.ts'
+[09:38:51.248] Adding entry into typings cache: 'pbkdf2' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pbkdf2/index.d.ts'
+[09:38:51.248] Adding entry into typings cache: 'pify' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pify/index.d.ts'
+[09:38:51.248] Adding entry into typings cache: 'prelude-ls' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/prelude-ls/index.d.ts'
+[09:38:51.249] Adding entry into typings cache: 'prettier' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/prettier/index.d.ts'
+[09:38:51.249] Adding entry into typings cache: 'prettier-linter-helpers' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/prettier-linter-helpers/index.d.ts'
+[09:38:51.249] Adding entry into typings cache: 'progress' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/progress/index.d.ts'
+[09:38:51.249] Adding entry into typings cache: 'promise-inflight' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/promise-inflight/index.d.ts'
+[09:38:51.250] Adding entry into typings cache: 'prop-types' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/prop-types/index.d.ts'
+[09:38:51.250] Adding entry into typings cache: 'pump' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pump/index.d.ts'
+[09:38:51.250] Adding entry into typings cache: 'pumpify' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/pumpify/index.d.ts'
+[09:38:51.251] Adding entry into typings cache: 'punycode' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/punycode/index.d.ts'
+[09:38:51.251] Adding entry into typings cache: 'rails__actioncable' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/rails__actioncable/index.d.ts'
+[09:38:51.251] Adding entry into typings cache: 'rails__activestorage' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/rails__activestorage/index.d.ts'
+[09:38:51.252] Adding entry into typings cache: 'rails__ujs' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/rails__ujs/index.d.ts'
+[09:38:51.252] Adding entry into typings cache: 'randombytes' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/randombytes/index.d.ts'
+[09:38:51.253] Adding entry into typings cache: 'react' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/react/index.d.ts'
+[09:38:51.253] Adding entry into typings cache: 'react-dom' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/react-dom/index.d.ts'
+[09:38:51.254] Adding entry into typings cache: 'react-is' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/react-is/index.d.ts'
+[09:38:51.254] Adding entry into typings cache: 'react-wait' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/react-wait/index.d.ts'
+[09:38:51.255] Adding entry into typings cache: 'readable-stream' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/readable-stream/index.d.ts'
+[09:38:51.255] Adding entry into typings cache: 'regenerate' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/regenerate/index.d.ts'
+[09:38:51.255] Adding entry into typings cache: 'regenerator-runtime' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/regenerator-runtime/index.d.ts'
+[09:38:51.256] Adding entry into typings cache: 'regex-not' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/regex-not/index.d.ts'
+[09:38:51.257] Adding entry into typings cache: 'repeat-element' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/repeat-element/index.d.ts'
+[09:38:51.257] Adding entry into typings cache: 'repeat-string' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/repeat-string/index.d.ts'
+[09:38:51.257] Adding entry into typings cache: 'require-directory' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/require-directory/index.d.ts'
+[09:38:51.258] Adding entry into typings cache: 'resolve' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/resolve/index.d.ts'
+[09:38:51.258] Adding entry into typings cache: 'rimraf' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/rimraf/index.d.ts'
+[09:38:51.258] Adding entry into typings cache: 'ripemd160' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/ripemd160/index.d.ts'
+[09:38:51.259] Adding entry into typings cache: 'safe-regex' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/safe-regex/index.d.ts'
+[09:38:51.259] Adding entry into typings cache: 'safer-buffer' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/safer-buffer/index.d.ts'
+[09:38:51.259] Adding entry into typings cache: 'scheduler' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/scheduler/index.d.ts'
+[09:38:51.260] Adding entry into typings cache: 'semver' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/semver/index.d.ts'
+[09:38:51.262] Adding entry into typings cache: 'serialize-javascript' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/serialize-javascript/index.d.ts'
+[09:38:51.263] Adding entry into typings cache: 'set-value' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/set-value/index.d.ts'
+[09:38:51.263] Adding entry into typings cache: 'setimmediate' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/setimmediate/index.d.ts'
+[09:38:51.263] Adding entry into typings cache: 'sha.js' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/sha.js/index.d.ts'
+[09:38:51.263] Adding entry into typings cache: 'shebang-command' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/shebang-command/index.d.ts'
+[09:38:51.264] Adding entry into typings cache: 'signal-exit' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/signal-exit/index.d.ts'
+[09:38:51.264] Adding entry into typings cache: 'slice-ansi' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/slice-ansi/index.d.ts'
+[09:38:51.264] Adding entry into typings cache: 'source-list-map' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/source-list-map/index.d.ts'
+[09:38:51.265] Adding entry into typings cache: 'source-map-support' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/source-map-support/index.d.ts'
+[09:38:51.265] Adding entry into typings cache: 'sprintf' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/sprintf/index.d.ts'
+[09:38:51.266] Adding entry into typings cache: 'sprintf-js' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/sprintf-js/index.d.ts'
+[09:38:51.266] Adding entry into typings cache: 'ssri' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/ssri/index.d.ts'
+[09:38:51.266] Adding entry into typings cache: 'stream-each' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/stream-each/index.d.ts'
+[09:38:51.267] Adding entry into typings cache: 'stream-shift' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/stream-shift/index.d.ts'
+[09:38:51.267] Adding entry into typings cache: 'supports-color' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/supports-color/index.d.ts'
+[09:38:51.267] Adding entry into typings cache: 'tapable' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/tapable/tapable.d.ts'
+[09:38:51.268] Adding entry into typings cache: 'text-table' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/text-table/index.d.ts'
+[09:38:51.268] Adding entry into typings cache: 'throttle-debounce' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/throttle-debounce/index.d.ts'
+[09:38:51.268] Adding entry into typings cache: 'through' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/through/index.d.ts'
+[09:38:51.269] Adding entry into typings cache: 'through2' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/through2/index.d.ts'
+[09:38:51.269] Adding entry into typings cache: 'tmp' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/tmp/index.d.ts'
+[09:38:51.270] Adding entry into typings cache: 'to-regex' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/to-regex/index.d.ts'
+[09:38:51.270] Adding entry into typings cache: 'to-regex-range' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/to-regex-range/index.d.ts'
+[09:38:51.270] Adding entry into typings cache: 'type-check' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/type-check/index.d.ts'
+[09:38:51.271] Adding entry into typings cache: 'urix' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/urix/index.d.ts'
+[09:38:51.272] Adding entry into typings cache: 'util-deprecate' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/util-deprecate/index.d.ts'
+[09:38:51.272] Adding entry into typings cache: 'watchpack' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/watchpack/index.d.ts'
+[09:38:51.274] Adding entry into typings cache: 'webpack' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/webpack/types.d.ts'
+[09:38:51.274] Adding entry into typings cache: 'webpack-sources' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/webpack-sources/index.d.ts'
+[09:38:51.275] Adding entry into typings cache: 'which' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/which/index.d.ts'
+[09:38:51.275] Adding entry into typings cache: 'wordwrap' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/wordwrap/index.d.ts'
+[09:38:51.275] Adding entry into typings cache: 'wrap-ansi' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/wrap-ansi/index.d.ts'
+[09:38:51.276] Adding entry into typings cache: 'write' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/write/index.d.ts'
+[09:38:51.276] Adding entry into typings cache: 'xtend' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/xtend/index.d.ts'
+[09:38:51.277] Adding entry into typings cache: 'yallist' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/yallist/index.d.ts'
+[09:38:51.277] Adding entry into typings cache: 'yargs' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/yargs/index.d.ts'
+[09:38:51.277] Adding entry into typings cache: 'yargs-parser' => '/Users/jrubisch/Library/Caches/typescript/4.5/node_modules/@types/yargs-parser/index.d.ts'
+[09:38:51.278] Finished processing cache location '/Users/jrubisch/Library/Caches/typescript/4.5'
+[09:38:51.278] Process id: 89830
+[09:38:51.278] NPM location: /Users/jrubisch/.asdf/installs/nodejs/16.13.1/bin/npm (explicit '--npmLocation' not  provided)
+[09:38:51.278] validateDefaultNpmLocation: false
+[09:38:51.278] Npm config file: /Users/jrubisch/Library/Caches/typescript/4.5/package.json
+[09:38:51.278] Updating types-registry npm package...
+[09:38:51.278] Exec: /Users/jrubisch/.asdf/installs/nodejs/16.13.1/bin/npm install --ignore-scripts types-registry@latest
+[09:38:52.103]     Succeeded. stdout:
+    
+    up to date, audited 471 packages in 696ms
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+[09:38:52.103] Updated types-registry npm package
+[09:38:52.116] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@hotwired/stimulus-loading","controllers"],"projectRootPath":"/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers","kind":"discover"}
+[09:38:52.120] Loaded safelist from types map file '/users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json'
+[09:38:52.120] Explicitly included types: []
+[09:38:52.120] Inferred typings from unresolved imports: ["@hotwired/stimulus-loading","controllers"]
+[09:38:52.120] Result: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","controllers"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:38:52.120] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","controllers"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:38:52.120] DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components
+[09:38:52.121] DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[09:38:52.121] Elapsed:: 0.4441249370574951ms DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[09:38:52.121] DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules
+[09:38:52.121] DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[09:38:52.121] Elapsed:: 0.043707847595214844ms DirectoryWatcher:: Added:: WatchInfo: /Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[09:38:52.121] Installing typings ["@hotwired/stimulus-loading","controllers"]
+[09:38:52.122] '@hotwired/stimulus-loading':: Entry for package 'hotwired__stimulus-loading' does not exist in local types registry - skipping...
+[09:38:52.122] 'controllers':: Entry for package 'controllers' does not exist in local types registry - skipping...
+[09:38:52.122] All typings are known to be missing or invalid - no need to install more typings
+[09:38:52.122] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@hotwired/stimulus-loading","controllers"],"kind":"action::set"}
+[09:38:52.122] Response has been sent.
+[09:39:55.981] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@hotwired/stimulus-loading","controllers","stimulus_reflex"],"projectRootPath":"/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers","kind":"discover"}
+[09:39:55.982] Explicitly included types: []
+[09:39:55.983] Inferred typings from unresolved imports: ["@hotwired/stimulus-loading","controllers","stimulus_reflex"]
+[09:39:55.983] Result: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","controllers","stimulus_reflex"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:39:55.983] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","controllers","stimulus_reflex"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:39:55.984] Installing typings ["@hotwired/stimulus-loading","controllers","stimulus_reflex"]
+[09:39:55.984] '@hotwired/stimulus-loading':: Entry for package 'hotwired__stimulus-loading' does not exist in local types registry - skipping...
+[09:39:55.984] 'controllers':: Entry for package 'controllers' does not exist in local types registry - skipping...
+[09:39:55.984] 'stimulus_reflex':: Entry for package 'stimulus_reflex' does not exist in local types registry - skipping...
+[09:39:55.984] All typings are known to be missing or invalid - no need to install more typings
+[09:39:55.984] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@hotwired/stimulus-loading","controllers","stimulus_reflex"],"kind":"action::set"}
+[09:39:55.985] Response has been sent.
+[09:40:04.898] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/jrubisch/.dotfiles/emacs/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"],"projectRootPath":"/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers","kind":"discover"}
+[09:40:04.899] Explicitly included types: []
+[09:40:04.899] Inferred typings from unresolved imports: ["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"]
+[09:40:04.899] Result: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:40:04.899] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"],"filesToWatch":["/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/bower_components","/Users/jrubisch/Documents/_CODE/demo/stimulus_reflex_importmaps/app/javascript/controllers/node_modules"]}
+[09:40:04.900] Installing typings ["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"]
+[09:40:04.900] '@hotwired/stimulus-loading':: Entry for package 'hotwired__stimulus-loading' does not exist in local types registry - skipping...
+[09:40:04.900] '@hotwired/turbo-rails':: Entry for package 'hotwired__turbo-rails' does not exist in local types registry - skipping...
+[09:40:04.900] 'controllers':: Entry for package 'controllers' does not exist in local types registry - skipping...
+[09:40:04.900] 'stimulus_reflex':: Entry for package 'stimulus_reflex' does not exist in local types registry - skipping...
+[09:40:04.900] All typings are known to be missing or invalid - no need to install more typings
+[09:40:04.901] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@hotwired/stimulus-loading","@hotwired/turbo-rails","controllers","stimulus_reflex"],"kind":"action::set"}
+[09:40:04.901] Response has been sent.
